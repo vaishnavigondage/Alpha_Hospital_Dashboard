@@ -65,6 +65,6 @@ alpha-hospital-dashboard/
 
 ---
 
-
+![Screenshot 2025-06-30 211941](https://github.com/user-attachments/assets/d591ecff-7776-465b-a8f1-843e5847c300)
 
 
